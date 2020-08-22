@@ -1,5 +1,5 @@
 ## Laravel Vuexy
-<img align="left" src"https://demo.nparoco.com/Vuexy/assets/landing/image/light.jpg" width="400" />
+![Vuexy](https://demo.nparoco.com/Vuexy/assets/landing/image/light.jpg?raw=true "Image")
 
 Laravel with Vuexy template admin
 
