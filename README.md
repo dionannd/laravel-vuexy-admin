@@ -1,4 +1,4 @@
-![Vuexy](https://github/dionannd/laravel-vuexy-admin/public/image/vuexy.jpg?raw=true "Template Admin")
+![Vuexy](https://demo.nparoco.com/Vuexy/assets/landing/image/light.jpg?raw=true "Template Admin")
 
 # Vuexy
 
