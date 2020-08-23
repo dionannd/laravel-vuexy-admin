@@ -2,10 +2,10 @@
 
 # Vuexy
 
-Vuexy template admin with [Laravel](https://laravel.com/docs/7.x) framework.
+Vuexy template admin for your app project with [Laravel](https://laravel.com/docs/7.x) framework.
 
 ### HTML Version
-If you want to see the html version, you can download [here](https://drive.google.com/file/d/10Iyp__D0rPVvrZcYnhRHeRy-LwQ_ZZWE/view?usp=sharing).
+If you want to see the html version, you can download [here](http://raboninco.com/1rsS4).
 
 ### Documentation
-For check doc of Vuexy [here](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation).
+For check doc of Vuexy [here](http://raboninco.com/1rsSq).
