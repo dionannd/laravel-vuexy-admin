@@ -8,4 +8,4 @@ Vuexy template admin for your app project with [Laravel](https://laravel.com/doc
 If you want to see the html version, you can download [here](http://raboninco.com/1rsS4).
 
 ### Documentation
-For check doc of Vuexy [here](http://raboninco.com/1rsSq).
+For check doc of Vuexy [here](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/documentation).
